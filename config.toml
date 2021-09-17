@@ -1,0 +1,5 @@
+baseURL = 'https://coral-project.org/'
+languageCode = 'en-us'
+title = 'CORAL-Project'
+
+theme = "mediumish"
