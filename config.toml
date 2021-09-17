@@ -3,3 +3,35 @@ languageCode = 'en-us'
 title = 'CORAL-Project'
 
 theme = "mediumish"
+
+summaryLength = 25
+
+copyright = "CORAL-Project - All rights reserved"
+
+[params]
+  #logo = ""
+  description = "CSA self-assessment and basic certification framework"
+  #customCSS = ["",]
+
+
+## Main Menu
+[[menu.main]]
+    name = "Welcome"
+    weight = 100
+    identifier = "home"
+    url = "/"
+[[menu.main]]
+    name = "Progress"
+    weight = 200
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "Supporters"
+    identifier = "supporters"
+    weight = 300
+    url = "/supporters/"
+[[menu.main]]
+    name = "About the Project"
+    identifier = "about"
+    weight = 900
+    url = "/about/"
