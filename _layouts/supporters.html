@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+{{content}}
+<div class="">
+    {% for supporter in site.data.supporters %}
+        <a href="{{ supporter.linkurl }}">
+            <div class="d-flex align-items-center py-4">
+                <div class="w-25 text-lg-center">
+                    {% if supporter.image %}
+                    <img src="{{ supporter.image }}" class="">
+                    {% endif %}
+                </div>
+                <div class="w-75 pl-4">
+                    <h4>{{ supporter.name }}</h4>
+                    {{ supporter.description }}
+                </div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
