@@ -1,9 +1,12 @@
-- name: GovCert
-  image: /assets/images/govcert.png
+
+- name: GovCert Luxembourg
+  image: /assets/images/supporter_logos/govcert.png
   linkurl: https://www.govcert.lu/en/
   description: GOVCERT.LU is the single point of contact dedicated to the treatment of all computer related incidents jeopardising the information systems of the government and defined critical infrastructure operators operating in Luxembourg, whether they are public or private. Incidents that are not related to GOVCERT.LU’s constituency are forwarded to other appropriate CSIRT’s.
+  country: LU
 
 - name: KonzeptAcht
-  image: /assets/images/konzept8.png
+  image: /assets/images/supporter_logos/konzept8.png
   linkurl: https://www.konzeptacht.de/
   description: KonzeptAcht has made it their business to optimally support their customers in protecting their information assets. They attach great importance to shaping information security together with their customers and adapting it to their individual needs. They offer all of their services reliably and at the highest level in order to always satisfy their customers. They invest in their employees, in the continuous development of their services and rely on the latest technologies to support their services.
+  country: DE

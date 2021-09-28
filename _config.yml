@@ -9,7 +9,7 @@ baseurl:
 
 # Authors
 authors:
-  sal:
+  gab:
     name: Gabriela Gheorghe
     display_name: Gabriela G.
     avatar: 'assets/images/avatar.png'
@@ -18,7 +18,7 @@ authors:
     web: https://www.cases.lu
     twitter: https://twitter.com/cases_lu
     description: "Project Manager"
-  john:
+  fab:
     name: Fabien Mathey
     display_name: Fabien M.    
     avatar: 'assets/images/avatar.png'
@@ -30,11 +30,12 @@ authors:
 
 # Plugins
 plugins:
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - kramdown-syntax-coderay
     
 # Archives
 jekyll-archives:
@@ -45,23 +46,26 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
-paginate_path: /page:num/
+# paginate: 6
+# paginate_path: /blog/page:num/
+
+pagination:
+  enabled: true
+  per_page: 6
+  permalink: '/blog/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
     
 # Other
 markdown: kramdown
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
+  syntax_highlighter: coderay
   syntax_highlighter_opts:
     block:
       line_numbers: true
-
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
