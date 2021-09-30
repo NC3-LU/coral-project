@@ -9,20 +9,18 @@ baseurl:
 
 # Authors
 authors:
-  gab:
+  ggh:
     name: Gabriela Gheorghe
     display_name: Gabriela G.
     avatar: 'assets/images/avatar.png'
-    gravatar: 
     email: 
     web: https://www.cases.lu
     twitter: https://twitter.com/cases_lu
     description: "Project Manager"
-  fab:
+  fma:
     name: Fabien Mathey
     display_name: Fabien M.    
     avatar: 'assets/images/avatar.png'
-    gravatar: 
     email: 
     web: https://www.cases.lu
     twitter: https://twitter.com/cases_lu
