@@ -15,8 +15,8 @@ Stay tuned for the next updates!
 Partners:
 
 * [CASES / Security Made In Luxembourg g.i.e.](https://www.cases.lu)
-* [L'Institut luxembourgeois de la normalisation, de l'accréditation, de la sécurité et qualité des produits et services (ILNAS)]()
-* [Agence pour la normalisation et l'économie de la connaissance (ANEC g.i.e.)]()
+* [L'Institut luxembourgeois de la normalisation, de l'accréditation, de la sécurité et qualité des produits et services (ILNAS)](https://ilnas.gouvernement.lu/en.html)
+* [Agence pour la normalisation et l'économie de la connaissance (ANEC g.i.e.)](https://portail-qualite.public.lu/fr/acteurs/gie-anec.html)
 
 Project information: 
 
