@@ -1,23 +1,36 @@
-# Mediumish - Jekyll Theme
+# CORAL Project installation
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+This will explain what to do to install and run the CORAL-Project Website locally for testing purposes
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+### installation
 
+install bundler first:
 
-### Copyright
+    root > apt install bundler
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+then clone the repo
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+    user > git clone <<REPO>>
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+then run:
 
-### Contribute
+    user > bundler install
 
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
+### run test server
 
-Thank you!
+to test the site locally, simply run:
+
+    user > bundle exec jekyll serve
+
+play with the website as you want by going here:
+
+    localhost:4000
+
+done, have fun!
+
+### Troubleshooting
+
+Please verify the `bundle install` or use `bundle update` for updates.
+
+To stop the running server, go back to the terminal that was running the local server in the first place and hit `CTRL+C`
+
