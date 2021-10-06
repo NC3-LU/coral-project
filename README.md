@@ -38,6 +38,6 @@ To stop the running server, go back to the terminal that was running the local s
 
 Although the SSH key needs to be on the server, the following commands run at the root of the project, will publish the site:
 
-    bundle exec jekyll build
-    cd _site/
-    rsync --delete -r . coral@shared-web.secin.lu:/var/www/coral-
+    user > bundle exec jekyll build
+    user > cd _site/
+    user > rsync --delete -r . coral@shared-web.secin.lu:/var/www/coral-
