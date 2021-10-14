@@ -1,34 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-09-20 11:04:39 +0200
-publish-date: 2021-09-20 11:04:39 +0200
-categories: development
-tags: development
+title:  "Welcome to the Project!"
+date:   2021-08-01 11:04:39 +0200
+publish-date: 2021-08-03 11:04:39 +0200
+categories: organisation
+tags: coralproject
 author: fma
 toc: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+We have signed the European Commission Grant Agreement with the number INEA/CF/ICT/A2020/2397459 for the European Project. CASES, ILNAS and ANEC are ready to start working on the project and start developing an easy to use self-assessment and basic level certification process. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Here is the summary of how the project will be working:
 
-Jekyll also offers powerful support for code snippets:
+The goal is to have a simple and straight forward way of self-assessing if a CSA basic level certification is currently possible for the selected service, product and process. Once a certain level is reached, one will be able to export this report and fill in the proof. Then, an audit can be requested and, given all it coherent and compliant, a certification can then be given.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Going with his approach, will reduce the resources needed by both parties to prepare and request a certification audit, effectively making the whole process less complex and less financially intensive. Also, since the self-assessment will be resumable, one can dedicate a selected time each week without the need to do it all in a single sitting.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Time table and plan
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-{% highlight python %}
-def test(self):
-  return 245
-{% endhighlight %}
+The schedule or time table will be provided at a later date, but it is known that the project funding by the European Commission will come to an end in october 2023. During that period, milestones and deadlines are defined but it should also be known that the project will not stop after the funding is over. It is an open source project that will keep living if the community has a use for the additional value provided.
