@@ -34,3 +34,10 @@ Please verify the `bundle install` or use `bundle update` for updates.
 
 To stop the running server, go back to the terminal that was running the local server in the first place and hit `CTRL+C`
 
+### Deployment on the server is:
+
+Although the SSH key needs to be on the server, the following commands run at the root of the project, will publish the site:
+
+    user > bundle exec jekyll build
+    user > cd _site/
+    user > rsync --delete -r . coral@shared-web.secin.lu:/var/www/coral-
