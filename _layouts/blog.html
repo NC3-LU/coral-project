@@ -5,6 +5,56 @@ title: Progress Updates
 
 {{ content }}
 
+    <div class="timeline">
+        <div class="timeline__wrap">
+        <div class="timeline__items">
+            <div class="timeline__item">
+            <div class="timeline__content">
+                <h2>2022.3</h2>
+                <p>Milestone 1</p>
+            </div>
+            </div>
+            <div class="timeline__item">
+            <div class="timeline__content">
+                <h2>2022.9</h2>
+                <p>Milestone 2</p>
+            </div>
+            </div>
+            <div class="timeline__item">
+            <div class="timeline__content">
+                <h2>2023.3</h2>
+                <p>Milestone 3</p>
+            </div>
+            </div>
+            ...
+        </div>
+        </div>
+    </div>
+
+<script lang="javascript">
+
+    timeline(document.querySelectorAll('.timeline'), {
+        mode: 'horizontal', forceVerticalMode: 500, verticalStartPosition: 'left'
+      });
+    
+    var tl1 = document.getElementsByClassName('timeline-divider')[0];
+    var tl = document.getElementsByClassName('timeline')[0];
+    var progress = document.createElement('span');
+
+
+    var dInit = new Date('9/1/2021');
+    var dNow = Date.now(); 
+    var dEnd = new Date('10/31/2023');
+    var progressTotalWidth = Math.abs(dEnd-dInit);
+    var progressCurrentWidth = Math.abs(dNow-dInit)/progressTotalWidth;
+    
+    progress.className = tl1.className;
+    progress.style.top = tl1.style.top;
+    progress.style.backgroundColor = "#0000ff";
+    progress.style.width = (progressCurrentWidth*100)+"%";
+    tl.appendChild(progress);
+</script>
+
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
