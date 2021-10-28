@@ -6,6 +6,22 @@
     background-color: #FFFFDD;
     border:4px solid #DDDDBB;
 }
+.timeline__item .timeline__content::after {
+    border-top: 10px solid #FFFFDD !important;
+    border-bottom: none !important;
+}
+.timeline__item .timeline__content__done::after {
+    border-top: 10px solid #DDFFDD !important;
+    border-bottom: none !important;
+}
+.timeline__item--bottom .timeline__content::after {
+    border-bottom: 10px solid #FFFFDD !important;
+    border-top: none !important;
+}
+.timeline__item--bottom .timeline__content__done::after {
+    border-bottom: 10px solid #DDFFDD !important;
+    border-top: none !important;
+}
 .timeline__content__done {
     background-color: #DDFFDD;
 }
