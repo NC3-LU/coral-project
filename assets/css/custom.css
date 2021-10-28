@@ -1,0 +1,14 @@
+.timeline__item__done::after {
+    background-color: #DDFFDD;
+    border:4px solid #AACCAA;
+}
+.timeline__item__not::after {
+    background-color: #FFFFDD;
+    border:4px solid #DDDDBB;
+}
+.timeline__content__done {
+    background-color: #DDFFDD;
+}
+.timeline__content__not {
+    background-color: #FFFFDD;
+}
