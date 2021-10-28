@@ -3,25 +3,23 @@ layout: default
 title: Progress Updates
 ---
 
-{{ content }}
-
 <!-- progress bar should be adapted to cover % space between dates of milestones -->
 
-    <div class="timeline">
-        <div class="timeline__wrap">
-        <div class="timeline__items">
-            {% for milestone in site.data.timeline %}
-            <div class="timeline__item">
-            <div class="timeline__content">
-                <h2>{{ milestone.title }}</h2>
-                <div style="width: 100%; text-align: right;">due on: {{ milestone.date }}</div>
-                <p>{{ milestone.description }}</p>
-            </div>
-            </div>
-            {% endfor %}
+<div class="timeline">
+    <div class="timeline__wrap">
+    <div class="timeline__items">
+        {% for milestone in site.data.timeline %}
+        <div class="timeline__item">
+        <div class="timeline__content">
+            <h2>{{ milestone.title }}</h2>
+            <div style="width: 100%; text-align: right; font-size: 0.65em;">due on: {{ milestone.date | date: '%B %d, %Y' }}</div>
+            <p style="font-size: 0.8em;">{{ milestone.description }}</p>
         </div>
         </div>
+        {% endfor %}
     </div>
+    </div>
+</div>
 
 <script lang="javascript">
 
@@ -46,6 +44,9 @@ title: Progress Updates
     progress.style.width = (progressCurrentWidth*100)+"%";
     tl.appendChild(progress);
 </script>
+
+
+{{ content }}
 
 <!-- Posts Index
 ================================================== -->

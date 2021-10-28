@@ -1,29 +1,29 @@
 - title: Start of the Project
   description: The Project has started! Amayzing!
-  date: 09/01/2021
+  date: 01/09/2021
   done: True
 
 - title: Milestone 1
   description: This is Milestone 1 that we are trying to hit so bad!
-  date: 03/01/2022
+  date: 01/03/2022
   done: False
 
 - title: Milestone 2
   description: The next Milestone that needs to be hit
-  date: 09/15/2022
+  date: 15/09/2022
   done: False
 
 - title: Milestone 3
   description: The third Milestone that needs to be hit in due time! Not being late!
-  date: 03/14/2023
+  date: 14/03/2023
   done: False
 
 - title: Milestone 4
   description: There is a forth Milestone and some description here
-  date: 09/21/2023
+  date: 21/09/2023
   done: False
 
 - title: End of the EC funding
   description: The final report for the EC will now be composed and completed. The project, however, will move on and continue developing!
-  date: 10/31/2023
+  date: 31/10/2023
   done: False
