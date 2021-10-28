@@ -5,32 +5,20 @@ title: Progress Updates
 
 {{ content }}
 
-<!-- Need to do this with Data File & loop + add a start point
-     + progress bar should be adapted to cover % space between dates of milestones
-     + have the dates in the datafile for  -->
+<!-- progress bar should be adapted to cover % space between dates of milestones -->
 
     <div class="timeline">
         <div class="timeline__wrap">
         <div class="timeline__items">
+            {% for milestone in site.data.timeline %}
             <div class="timeline__item">
             <div class="timeline__content">
-                <h2>2022.3</h2>
-                <p>Milestone 1</p>
+                <h2>{{ milestone.title }}</h2>
+                <div style="width: 100%; text-align: right;">due on: {{ milestone.date }}</div>
+                <p>{{ milestone.description }}</p>
             </div>
             </div>
-            <div class="timeline__item">
-            <div class="timeline__content">
-                <h2>2022.9</h2>
-                <p>Milestone 2</p>
-            </div>
-            </div>
-            <div class="timeline__item">
-            <div class="timeline__content">
-                <h2>2023.3</h2>
-                <p>Milestone 3</p>
-            </div>
-            </div>
-            ...
+            {% endfor %}
         </div>
         </div>
     </div>
@@ -38,7 +26,7 @@ title: Progress Updates
 <script lang="javascript">
 
     timeline(document.querySelectorAll('.timeline'), {
-        mode: 'horizontal', forceVerticalMode: 500, verticalStartPosition: 'left'
+        mode: 'horizontal', forceVerticalMode: 500, verticalStartPosition: 'left', visibleItems: 6, startIndex: 0
       });
     
     var tl1 = document.getElementsByClassName('timeline-divider')[0];
