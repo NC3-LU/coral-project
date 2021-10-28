@@ -32,22 +32,7 @@ title: Progress Updates
         mode: 'horizontal', forceVerticalMode: 500, verticalStartPosition: 'left', visibleItems: 5, startIndex: 0
       });
     
-    var tl1 = document.getElementsByClassName('timeline-divider')[0];
-    var tl = document.getElementsByClassName('timeline')[0];
-    var progress = document.createElement('span');
-
-
-    var dInit = new Date('9/1/2021');
-    var dNow = Date.now(); 
-    var dEnd = new Date('10/31/2023');
-    var progressTotalWidth = Math.abs(dEnd-dInit);
-    var progressCurrentWidth = Math.abs(dNow-dInit)/progressTotalWidth;
     
-    progress.className = tl1.className;
-    progress.style.top = tl1.style.top;
-    progress.style.backgroundColor = "#0000ff";
-    progress.style.width = (progressCurrentWidth*100)+"%";
-    tl.appendChild(progress);
 </script>
 
 
