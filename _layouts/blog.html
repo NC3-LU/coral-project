@@ -10,10 +10,15 @@ title: Progress Updates
     <div class="timeline__items">
         {% for milestone in site.data.timeline %}
         <div class="timeline__item">
-        <div class="timeline__content">
+            {% assign backgroundcolor = "#FFFFDD" %}
+            {% if milestone.done %}
+                {% assign backgroundcolor = "#DDFFDD" %}
+
+            {% endif %}
+        <div class="timeline__content" style="background-color: {{ backgroundcolor }};">
             <h2>{{ milestone.title }}</h2>
             <div style="width: 100%; text-align: right; font-size: 0.65em;">due on: {{ milestone.date | date: '%B %d, %Y' }}</div>
-            <p style="font-size: 0.8em;">{{ milestone.description }}</p>
+            <p style="font-size: 0.8em; text-align: justify;">{{ milestone.description }}</p>
         </div>
         </div>
         {% endfor %}
