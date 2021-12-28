@@ -1,64 +1,64 @@
 - title: Start of the Project
-  description: The Project has started and the timeline, Milestones ordered by due date, created! Let's GO!
+  description: "The project has started in September 2021, and the timeline, milestones ordered by the due date were created. Five different activities will be considered throughout the project as described in the project proposal and the grant agreement. And these activities were defined: <br>1. Project management and coordination <br>2. Methodology for the conformity self-assessment and basic assurance <br>3. Proof of concept for the self-assessment and basic level of assurance <br>4. Proposal of a process to evaluate conformity based on cybersecurity risks <br>5. Training and dissemination."
   date: 01/09/2021
   done: True
 
 - title: Milestone 2
-  description: Report  on  “State-of-the-artstandardisation approaches  to  basic  levels  of  assurance  in  the context of the CSA” has been finalised
-  date: 15/01/2022
+  description: "One of the First Milestone is the White-paper on the state-of-the-art standardization approaches in cybersecurity and is due on February 15, 2022. <br><br>Another achievable during this milestones is a report including the target audience identification, main domains of technical inquiry for the risk assessment approach, and this should be done by 15.03.2022"
+  date: 15/02/2022
   done: False
 
 - title: Milestone 3
-  description: Report   with   basic   concepts   has   been   finalised
+  description: Provide a status report to the HaDEA with an update on the status of the project and due on March 2022.
   date: 15/03/2022
   done: False
 
 - title: Milestone 4
-  description: The questionnaire, and possible recommendations have been elaborated
+  description: Elaborate a set of questionnaire, and possible recommendations for the self-assessment and the basic level of assurance, due on August 31, 2022
   date: 31/08/2022
   done: False
 
 - title: Milestone 5
-  description: PoC for self-certification and basic level of assurance has been completed
+  description: The second status report to be provided to HaDEA, due on September 2022
+  date: 15/02/2023
+  done: False
+
+- title: Milestone 6
+  description: PoC for self-certification and basic level of assurance has been completed, due on *February 15, 2023
   date: 15/02/2023
   done: False
 
 - title: Milestone 7
-  description: Feasibility study has been completed
+  description: Completion of the feasibility study by April 01, 2023
   date: 01/04/2023
   done: False
 
-- title: Milestone 6
-  description: “Conformity Assessment Guidance Document” gathering results of tasks 4.1 to 4.4 has been finalised 
-  date: 15/04/2023
+- title: Milestone 8
+  description: Conformity assessment guidance document gathering results of the "Basic steps and actors in the certification process" and the "Development of auditor profile" has been finalised. Due on April 13, 2023
+  date: 13/04/2023
   done: False
 
-- title: Milestone 8
-  description: Training materials have been elaborated
+- title: Milestone 9
+  description: Elaboration and completion of training materials by June 01, 2023
   date: 01/06/2023
   done: False
 
 - title: Milestone 10
-  description: News articles have been published
+  description: Published articles about the project, our findings, and contribution to keeping products and services safe on the market. Due by June 01, 2023
   date: 01/06/2023
   done: False
 
-- title: Milestone 9
-  description: Promotional videos have been produced
-  date: 30/09/2023
-  done: False
-
 - title: Milestone 11
-  description: The    beneficiaries    have    participated    in    working      groups      of      the      European      Cybersecurity         Certification         Group         AND/OR   have   contributed   to   activities organised   in   the   context   of   European   cooperation    platform    for    cybersecurity    certification set-up by the EC
-  date: 31/10/2023
+  description: Produced promotional videos. Due by September 30, 2023
+  date: 31/09/2023
   done: False
 
-- title: Milestone 1
-  description: The beneficiary has reported on the Action to HaDEA
+- title: Milestone 12
+  description: The beneficiaries have participated in working groups of the European Cybersecurity Certification Group AND/OR have contributed to activities organized in the context of the European cooperation platform for cybersecurity certification set-up by the EC. Due by October 31, 2023
   date: 31/10/2023
   done: False
 
 - title: End of the EC funding
-  description: The final report for the EC will now be composed and completed. The project, however, will move on and continue developing!
+  description: Completion and submission of the final report to the EC. The project, however, will move on and continue developing! Due by December 15, 2023
   date: 15/12/2023
   done: False
