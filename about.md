@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Project
-permalink: /about/
+permalink: /
 ---
 
 CORAL, which stands for **cybersecurity Certification based On Risk evALuation and treatment**, is a project with the objective to set up the building blocks of self-assessment and certification for the basic level of assurance in line with the EU Cybersecurity Act, or CSA (Regulation EU 2019/881). CSA became effective in June 2019 and offers businesses the opportunity to certify that their products or services meet EU cybersecurity standards.
