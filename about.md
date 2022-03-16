@@ -8,7 +8,7 @@ projectinfo:
     anumber: INEA/CEF/ICT/A2020/2397459
 ---
 
-CORAL, which stands for **cybersecurity Certification based On Risk evALuation and treatment, ** is a European Union-funded project under CEF Telecom Call, that aims to elaborate a toolkit and methodology to speed up the certification process in line with the EU Cybersecurity Act or CSA (Regulation EU 2019/881). The project aims to address challenges concerning self-certification and the basic level of assurance, as well as to enhance the exchange of good practices, collaboration and information sharing related to performing evaluations in line with the CSA.
+CORAL, which stands for **cybersecurity Certification based On Risk evALuation and treatment**, is a European Union-funded project under CEF Telecom Call, that aims to elaborate a toolkit and methodology to speed up the certification process in line with the EU Cybersecurity Act or CSA (Regulation EU 2019/881). The project aims to address challenges concerning self-certification and the basic level of assurance, as well as to enhance the exchange of good practices, collaboration and information sharing related to performing evaluations in line with the CSA.
 
 The CORAL project is being developed in a Luxembourgish context, but it aims to become known and used beyond the Luxembourg market and borders. Its target audience is primarily small and medium enterprises who have a product or service for which, they wish to assess the basic cybersecurity requirements.
 
