@@ -25,6 +25,14 @@ authors:
     web: https://www.cases.lu
     twitter: https://twitter.com/cases_lu
     description: "Project Assistant"
+  dko:
+    name: Dominique Kogue
+    display_name: Dominique K.    
+    avatar: 'assets/images/avatar.png'
+    email: info@coral-project.org
+    web: https://www.cases.lu
+    twitter: https://twitter.com/cases_lu
+    description: "Project Assistant"
 
 # Plugins
 plugins:
