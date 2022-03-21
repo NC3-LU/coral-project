@@ -60,3 +60,5 @@ The following standards were considered for the evaluation:
 
 1. The ISO/IEC 27036 series “Information security for supplier relationships”;
 2. ISO/IEC 21827:2008 Information technology — Security techniques — Systems Security Engineering — Capability Maturity Model.
+
+For the detailed deliverable, please look at this [document](/assets/docs/stateoftheart.pdf)
