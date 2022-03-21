@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+    </div>
+
+    <div class="article-post">
+    {{content}}
+
+
+    <table class="table" style="width: 100%;">
+        <tr>
+            <th style="width: 50px;"></th>
+            <th>Document</th>
+            <th style="width:200px;">Link</th>
+        </tr>
+        {% assign docnum=1 %}
+        {% for doc in site.data.documents %}
+        <tr style="border-top: 3px solid #8181d1;">
+            <td>{{ docnum }}</td>
+            <td>
+                <h4>{{ doc.title }}</h4>
+                <p>{{ doc.description }}</p>
+            </td>
+            <td style="vertical-align: middle;">
+                <a href="{{ doc.link }}">
+                <img src="/assets/images/doc.png" style="max-height: 100px;">
+                </a>
+            </td>
+        </tr>
+        {% assign docnum = docnum | plus:1 %}
+        {% endfor %}
+    </table>
+
+
+
+    </div>
+
+    
+</section>

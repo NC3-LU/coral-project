@@ -6,12 +6,12 @@
 - title: Milestone 2
   description: "One of the First Milestone is the White-paper on the state-of-the-art standardization approaches in cybersecurity and is due on February 15, 2022. <br><br>Another achievable during this milestones is a report including the target audience identification, main domains of technical inquiry for the risk assessment approach, and this should be done by 15.03.2022"
   date: 15/02/2022
-  done: False
+  done: True
 
 - title: Milestone 3
   description: Provide a status report to the HaDEA with an update on the status of the project and due on March 2022.
   date: 15/03/2022
-  done: False
+  done: True
 
 - title: Milestone 4
   description: Elaborate a set of questionnaire, and possible recommendations for the self-assessment and the basic level of assurance, due on August 31, 2022
