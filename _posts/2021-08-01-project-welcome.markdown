@@ -14,7 +14,7 @@ We have signed the European Commission Grant Agreement with the number INEA/CF/I
 
 The goal is to have a simple and straight forward way of self-assessing if a CSA basic level certification is currently possible for the selected service, product and process. Once a certain level is reached, one will be able to export this report and fill in the proof. Then, an audit can be requested and, given all it coherent and compliant, a certification can then be given.
 
-Going with his approach, will reduce the resources needed by both parties to prepare and request a certification audit, effectively making the whole process less complex and less financially intensive. Also, since the self-assessment will be resumable, one can dedicate a selected time each week without the need to do it all in a single sitting.
+Going with this approach, will reduce the resources needed by both parties to prepare and request a certification audit, effectively making the whole process less complex and less financially intensive. Also, since the self-assessment will be resumable, one can dedicate a selected time each week without the need to do it all in a single sitting.
 
 ## Time table and plan
 
