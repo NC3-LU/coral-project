@@ -7,3 +7,8 @@
   description: "This document focuses on the identification of CSA's basic target audience, the definition of low-complexity products, services, and the identification of technical scopes. The former will be dedicated to the identification of the category of ICT services, ICT products, etc. that could be concerned by the certification being designed and the latter will be dedicated to the identification of the main domains of technical inquiry needed to cover all the baseline of information security and cybersecurity."
   date: 15/03/2022
   link: "/assets/docs/technicalrequirements&targetaudience.pdf"
+  
+  - title: Evaluation Questionnaire for ICT Services, ICT Processes, ICT Products
+  description: "This document focuses on the list of questions and corresponding recommendations for self-assessment and basic assurance. The questionnaire cover domains such as ICT services, ICT processes, and ICT products. For ICT products, there are two sets of questionnaires covering Web application products and generic products."
+  date: 02/11/2022
+  link: "/assets/docs/Evaluation%20Questionnaire.xlsx"
