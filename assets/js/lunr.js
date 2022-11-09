@@ -2022,7 +2022,7 @@ lunr.Index.load = function (serializedIndex) {
  * @property {lunr.Pipeline} pipeline - The pipeline performs text processing on tokens before indexing.
  * @property {lunr.Pipeline} searchPipeline - A pipeline for processing search terms before querying the index.
  * @property {number} documentCount - Keeps track of the total number of documents indexed.
- * @property {number} _b - A parameter to control field length normalization, setting this to 0 disabled normalization, 1 fully normalizes field lengths, the default value is 0.75.
+ * @property {number} _b - A parameter to control field length normalisation, setting this to 0 disabled normalisation, 1 fully normalizes field lengths, the default value is 0.75.
  * @property {number} _k1 - A parameter to control how quickly an increase in term frequency results in term frequency saturation, the default value is 1.2.
  * @property {number} termIndex - A counter incremented for each unique term, used to identify a terms position in the vector space.
  * @property {array} metadataWhitelist - A list of metadata keys that have been whitelisted for entry in the index.

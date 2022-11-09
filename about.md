@@ -57,19 +57,22 @@ The project is organised in different activities in order to achieve the define 
 
 ### Partners
 
-The CORAL project brings together the expertise of 3 key players of the Luxembourg cybersecurity and normalization, that have a wide range of expertise in the areas of Cybersecurity and security certification.
+The CORAL project brings together the expertise of 3 key players of the Luxembourg cybersecurity and normalisation, that have a wide range of expertise in the areas of Cybersecurity and security certification.
 
-* CASES / Security Made In Luxembourg g.i.e.
+* Luxembourg House of Cybersecurity (LHC) / NC3
 * L’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services (ILNAS)
 * Agence pour la normalisation et l’économie de la connaissance (ANEC g.i.e.)
 
-##### CASES
+##### NC3
 
-CASES Luxembourg is a government-driven initiative offering awareness-raising, information security risk management, privacy, and self-assessment tools such as MONARC, Fit4cybersecurity, Fit4privacy, etc. with the focus on making the understanding and management of information security issues easier for SMEs.
+The purpose of the Luxembourg National Cybersecurity Competence Center (NC3) is to strengthen the Country's ecosystem facing cyber threats and risks.
+
+NC3 (formerly CASES Luxembourg) is a government-driven initiative offering awareness-raising, information security risk management, privacy, and self-assessment tools such as MONARC, Fit4cybersecurity, Fit4privacy, etc. with the focus on making the understanding and management of information security issues easier for SMEs.
+More information about these projects [here](https://opensource.nc3.lu/projects/).
 
 ##### ILNAS
 
-The Institut Luxembourgeois de la Normalisation, de l'Accréditation, de la Sécurité et qualité des produits et services (ILNAS) is a public administration under the authority of the Minister of Economy. ILNAS' missions include Normalization, Accreditation & Notification, Digital trust, Market Surveillance and Metrology.
+The Institut Luxembourgeois de la Normalisation, de l'Accréditation, de la Sécurité et qualité des produits et services (ILNAS) is a public administration under the authority of the Minister of Economy. ILNAS' missions include normalisation, Accreditation & Notification, Digital trust, Market Surveillance and Metrology.
 
 ##### ANEC
 
