@@ -14,24 +14,21 @@ authors:
     display_name: Gabriela G.
     avatar: 'assets/images/avatar.png'
     email: info@coral-project.org
-    web: https://opensource.nc3.lu
-    twitter: https://twitter.com/cases_lu
+    web: https://www.nc3.lu
     description: "Project Manager"
   fma:
     name: Fabien Mathey
     display_name: Fabien M.
     avatar: 'assets/images/avatar.png'
     email: info@coral-project.org
-    web: https://opensource.nc3.lu
-    twitter: https://twitter.com/cases_lu
-    description: "Project Assistant"
+    web: https://www.nc3.lu
+    description: "Former poject Assistant"
   dko:
     name: Dominique Kogue
     display_name: Dominique K.
     avatar: 'assets/images/avatar.png'
     email: info@coral-project.org
-    web: https://opensource.nc3.lu
-    twitter: https://twitter.com/cases_lu
+    web: https://www.nc3.lu
     description: "Project Assistant"
 
 # Plugins
