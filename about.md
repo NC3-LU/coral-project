@@ -67,8 +67,7 @@ The CORAL project brings together the expertise of 3 key players of the Luxembou
 
 The purpose of the Luxembourg National Cybersecurity Competence Center (NC3) is to strengthen the Country's ecosystem facing cyber threats and risks.
 
-NC3 (formerly CASES Luxembourg) is a government-driven initiative offering awareness-raising, information security risk management, privacy, and self-assessment tools such as MONARC, Fit4cybersecurity, Fit4privacy, etc. with the focus on making the understanding and management of information security issues easier for SMEs.
-More information about these projects [here](https://opensource.nc3.lu/projects/).
+NC3 is a government-driven initiative offering awareness-raising, information security risk management, privacy, and self-assessment tools such as MONARC, Fit4cybersecurity, Fit4privacy, etc. with the focus on making the understanding and management of information security issues easier for SMEs.
 
 ##### ILNAS
 
