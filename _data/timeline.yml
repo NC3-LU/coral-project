@@ -21,7 +21,7 @@
 - title: Milestone 5
   description: The second status report to be provided to HaDEA, due on September 2022
   date: 15/02/2023
-  done: False
+  done: True
 
 - title: Milestone 6
   description: PoC for self-certification and basic level of assurance has been completed, due on *February 15, 2023
