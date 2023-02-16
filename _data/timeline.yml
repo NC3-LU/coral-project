@@ -9,51 +9,41 @@
   done: True
 
 - title: Milestone 3
-  description: Provide a status report to the HaDEA with an update on the status of the project and due on March 2022.
-  date: 15/03/2022
-  done: True
-
-- title: Milestone 4
   description: Elaborate a set of questionnaire, and possible recommendations for the self-assessment and the basic level of assurance, due on August 31, 2022
   date: 31/08/2022
   done: True
 
-- title: Milestone 5
-  description: The second status report to be provided to HaDEA, due on September 2022
+- title: Milestone 4
+  description: PoC for self-certification and basic level of assurance has been completed, due on *February 15, 2023
   date: 15/02/2023
   done: True
 
-- title: Milestone 6
-  description: PoC for self-certification and basic level of assurance has been completed, due on *February 15, 2023
-  date: 15/02/2023
-  done: False
-
-- title: Milestone 7
+- title: Milestone 5
   description: Completion of the feasibility study by April 01, 2023
   date: 01/04/2023
   done: False
 
-- title: Milestone 8
+- title: Milestone 6
   description: Conformity assessment guidance document gathering results of the "Basic steps and actors in the certification process" and the "Development of auditor profile" has been finalised. Due on April 13, 2023
   date: 13/04/2023
   done: False
 
-- title: Milestone 9
+- title: Milestone 7
   description: Elaboration and completion of training materials by June 01, 2023
   date: 01/06/2023
   done: False
 
-- title: Milestone 10
+- title: Milestone 8
   description: Published articles about the project, our findings, and contribution to keeping products and services safe on the market. Due by June 01, 2023
   date: 01/06/2023
   done: False
 
-- title: Milestone 11
+- title: Milestone 9
   description: Produced promotional videos. Due by September 30, 2023
   date: 31/09/2023
   done: False
 
-- title: Milestone 12
+- title: Milestone 10
   description: The beneficiaries have participated in working groups of the European Cybersecurity Certification Group AND/OR have contributed to activities organized in the context of the European cooperation platform for cybersecurity certification set-up by the EC. Due by October 31, 2023
   date: 31/10/2023
   done: False
