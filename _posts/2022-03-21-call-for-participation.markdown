@@ -22,6 +22,6 @@ Your participation would provide the project team with a valuable independent fe
 
 Your participation in this project is on voluntary basis and will not be financially compensated. However, your contributions would be recognized and published on the project website, if your consent is given. By participating in this project, you would actively engage in various discussions around the certification, and gain a head-start in terms of the first CSA-based EU-cybersecurity certification framework for the basic level of assurance.
 
-All volunteers are expected to contribute from September 2022 to February 2023. If you are willing to take part, kindly contact us via our email address at [coral@cases.lu](mailto:coral@lhc.lu?subject=Coral%20Project%20Call%20for%20Participation)
+All volunteers are expected to contribute from September 2022 to February 2023. If you are willing to take part, kindly contact us via our email address at [coral@lhc.lu](mailto:coral@lhc.lu?subject=Coral%20Project%20Call%20for%20Participation)
 
 Do not hesitate to contact us if you have any questions or need further information.
