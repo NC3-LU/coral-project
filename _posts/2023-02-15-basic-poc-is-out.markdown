@@ -6,7 +6,7 @@ publish-date: 2023-02-17 14:20:04 +0200
 categories: community
 tags: coralproject
 author: pundorra
-toc: false
+toc: true
 ---
 
 CORAL’s proof of concept has materialised in its first version, and it is called [Fit4CSA](https://fit4csa.nc3.lu/survey/). 
