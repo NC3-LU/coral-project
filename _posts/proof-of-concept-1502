@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "First version of Fit4CSA is out"
+date:   2023-02-15 10:02:56 +0200
+publish-date: 2023-03-17 15:45:04 +0200
+categories: community
+tags: coralproject
+author: ggh
+toc: false
+---
+
+CORAL’s proof of concept has materialised in its first version!
+
+Fit4CSA is aimed at any SME that wishes to assess if an ICT process, service or application can be certified at a basic level in the context of the Cybersecurity Act. The respondent can pick one of the 4 
+questionnaires, that are all based on existing assessment schemes ([EUCS](https://www.enisa.europa.eu/publications/eucs-cloud-service-scheme) or, if an assessment scheme is not yet proposed, a standard or best practice 
+ranging from OWASP’s to ISO/IEC 21827:2008. After filling in the questionnaire in an anonymous way, the respondent is given a score and a set of recommendations, if the answers were not optimal. These 
+recommendations can serve to improve the cybersecurity maturity of the object to be assessed. If the score achieved is high enough, the respondent can either opt for obtaining a report serving as the basis of 
+a conformity self-assessment, or can continue the process by registering and requesting an audit based on the answers to the questionnaire. 
+
+Check out [Fit4CSA] (https://fit4csa.nc3.lu/survey/) and tell us what you think at coral@lhc.lu !
