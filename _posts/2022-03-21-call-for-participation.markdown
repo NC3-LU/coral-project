@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your possibility contributing to the first European Cybersecurity certification project based on the CSA"
+title:  "Your possibility of contributing to the first European Cybersecurity certification project based on the CSA"
 date:   2022-03-21 11:20:24 +0200
 publish-date: 2022-03-21 11:20:24 +0200
 categories: community
@@ -9,7 +9,7 @@ author: fma
 toc: false
 ---
 
-With the entry into force of the Cybersecurity Security Act, a Cybersecurity certification is becoming a crucial factor for businesses success, specially for SMEs in charge of ICT products, services or processes. The Cybersecurity certification based on risk evaluation and treatment (CORAL), an opensource project, is being established to address this lack on the market. One of the key objectives of the project is to set up the building blocks of self-assessment and certification for the basic level assurance in line with the EU Cybersecurity Act. 
+With the entry into force of the Cybersecurity Act, cybersecurity certifications are becoming a crucial trust factor for business success for SMEs in charge of ICT products, services or processes. The Cybersecurity certification based on risk evaluation and treatment (CORAL), an opensource project, is being established to address this lack on the market. One of the key objectives of the project is to set up the building blocks of self-assessment and certification for the basic level assurance in line with the EU Cybersecurity Act. 
 
 This call for participation is part of the feasibility study stage of the project which aims to evaluate not only the market assimilation for the basic level of assurance and conformity self-assessment but also to assess the selected approach and methodology.  
 
