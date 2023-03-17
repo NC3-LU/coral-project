@@ -12,3 +12,9 @@
   description: "This document focuses on the list of questions and corresponding recommendations for self-assessment and basic assurance. The questionnaire cover domains such as ICT services, ICT processes, and ICT products. For ICT products, there are two sets of questionnaires covering Web application products and generic products."
   date: 02/11/2022
   link: "/assets/docs/Evaluation%20Questionnaire.xlsx"
+  
+  
+- title: Feedback form for Fit4CSA v1.0
+  description: "This document contains feedback questions related to the first version of the Fit4CSA tool. The purpose is to gain feedback during the feasibility study phase about the way the formulations of the questions, answers and recommendations, as well as to gather reactions to the proposed Fit4CSA flow."
+  date: 17/03/2023
+  link: "/assets/docs/CORAL-Feedback%20form-v1.1.docx"
