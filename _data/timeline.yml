@@ -24,14 +24,14 @@
   done: True
 
 - title: Milestone 5
-  description: Completion of the feasibility study by April 01, 2023
+  description: Completion of the feasibility study by April 01 (delayed to April 30th), 2023
   date: 30/04/2023
-  done: False
+  done: True
 
 - title: Milestone 7
-  description: Elaboration and completion of training materials by June 01, 2023
+  description: Elaboration and completion of training materials by June 01 / (Replaced by) Elaboration of CORAL presentation materials by June 01
   date: 01/06/2023
-  done: False
+  done: True
 
 - title: Milestone 8
   description: Published articles about the project, our findings, and contribution to keeping products and services safe on the market. Due by June 01, 2023
