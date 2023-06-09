@@ -32,6 +32,11 @@
   description: Elaboration and completion of training materials by June 01 / (Replaced by) Elaboration of CORAL presentation materials by June 01
   date: 01/06/2023
   done: True
+  
+  - title: Milestone 10
+  description: The beneficiaries have participated in working groups of the European Cybersecurity Certification Group AND/OR have contributed to activities organized in the context of the European cooperation platform for cybersecurity certification set-up by the EC. Due by October 31, 2023
+  date: 31/10/2023 / done on 09/06/2023
+  done: True
 
 - title: Milestone 8
   description: Published articles about the project, our findings, and contribution to keeping products and services safe on the market. Due by June 01, 2023 -> delayed to July 31, 2023
@@ -42,11 +47,6 @@
   description: Produced promotional videos. Due by September 30, 2023
   date: 31/09/2023
   done: False
-
-- title: Milestone 10
-  description: The beneficiaries have participated in working groups of the European Cybersecurity Certification Group AND/OR have contributed to activities organized in the context of the European cooperation platform for cybersecurity certification set-up by the EC. Due by October 31, 2023
-  date: 31/10/2023 / done by 09/06/2023
-  done: True
 
 - title: End of the EC funding
   description: Completion and submission of the final report to the EC. The project, however, will move on and continue developing! Due by December 15, 2023
