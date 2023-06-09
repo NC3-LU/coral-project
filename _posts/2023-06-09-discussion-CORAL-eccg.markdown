@@ -6,14 +6,9 @@ publish-date: 2023-06-09 12:11:54 +0200
 categories: dissemination
 tags: coralproject
 author: pundorra
-toc: true
+toc: false
 ---
 
-We are happy to discuss CORAL and its approach at the ECCG meeting today, where EU level stakeholders can have a say on the overall implementation and follow-up!
+We are happy to discuss CORAL and its approach at the ECCG meeting today. ECCG stands for European Cybersecurity Certification Group and is composed of representatives of national cybersecurity certification authorities or representatives of other relevant national authorities. Among other responsibilities, ECCG can also examine developments in the field of cybersecurity certification and help exchange information and good practices on cybersecurity certification schemes.
 
-
-# Your comments [As Well!] can have impact on a larger scale
-
-As this is an European Commission funded project, that includes in its consortium a national standardisation authority, your opinions or suggestions regarding the methodology and prototype of this project could be discussed at European level. 
-
-Feel free to [write to us](mailto:coral@lhc.lu?subject=Coral%20Project) if you have any questions or need further information.
+You can find more details about ECCG [here](https://digital-strategy.ec.europa.eu/en/policies/cybersecurity-certification-group).
