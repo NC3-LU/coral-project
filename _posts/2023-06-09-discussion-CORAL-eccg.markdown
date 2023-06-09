@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "CORAL discussed at ECCG meeting!“
+title:  "CORAL discussed at ECCG meeting“
 date:   2023-06-09 12:10:24 +0200
 publish-date: 2023-06-09 12:11:54 +0200
-categories: community
+categories: dissemination
 tags: coralproject
 author: pundorra
 toc: true
