@@ -14,7 +14,7 @@
   done: True
 
 - title: Milestone 4
-  description: PoC for self-certification and basic level of assurance has been completed, due on *February 15, 2023
+  description: PoC for self-certification and basic level of assurance has been completed, due on February 15, 2023
   date: 15/02/2023
   done: True
 
@@ -29,17 +29,17 @@
   done: True
 
 - title: Milestone 7
-  description: Elaboration and completion of training materials by June 01 / (Replaced by) Elaboration of CORAL presentation materials by June 01
+  description: Elaboration of CORAL presentation materials (instead of training materials) by June 01
   date: 01/06/2023
   done: True
   
   - title: Milestone 10
-  description: The beneficiaries have participated in working groups of the European Cybersecurity Certification Group AND/OR have contributed to activities organized in the context of the European cooperation platform for cybersecurity certification set-up by the EC. Due by October 31, 2023 -- done on 09/06/2023
-  date: 31/10/2023
+  description: The beneficiaries have participated in working groups of the European Cybersecurity Certification Group AND/OR have contributed to activities organized in the context of the European cooperation platform for cybersecurity certification set-up by the EC. Due by October 31, 2023.
+  date: 09/06/2023
   done: True
 
 - title: Milestone 8
-  description: Published articles about the project, our findings, and contribution to keeping products and services safe on the market. Due by June 01, 2023 -> delayed to July 31, 2023
+  description: Published articles about the project, our findings, and contribution to keeping products and services safe on the market. Due by June 01 but delayed to July 31, 2023
   date: 31/07/2023
   done: False
 
