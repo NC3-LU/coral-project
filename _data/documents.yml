@@ -1,7 +1,7 @@
 - title: Start of the Art
   description: "This Document presents a repository of categories of requirements or considerations from widely accepted published standards, literature, and guidelines to serve as a source of generic requirements and recommendations for basic levels of security in low-complexity and low-risk products, services, and processes."
   date: 15/02/2022
-  link: "/assets/docs/stateoftheart.pdf"
+  link: "/assets/docs/SotA%20CS%20ProdsServsProcs_v1.1.pdf"
 
 - title: Identification of the CSA-basic target audience and technical requirements
   description: "This document focuses on the identification of CSA's basic target audience, the definition of low-complexity products, services, and the identification of technical scopes. The former will be dedicated to the identification of the category of ICT services, ICT products, etc. that could be concerned by the certification being designed and the latter will be dedicated to the identification of the main domains of technical inquiry needed to cover all the baseline of information security and cybersecurity."
@@ -23,4 +23,4 @@
 - title: CORAL Methodology and Conformity Assessment Guidance v1.0
   description: "This CORAL project deliverable describes the CORAL overall methodology related to conformity assessment, how the Fit4CSA tool integrates in this methodology, and its scoring scale. An auditor profile is also proposed with respect to the methodology proposed. "
   date: 17/04/2023
-  link: "/assets/docs/Task%204%20deliverable%20CORAL_v1.0.pdf"
+  link: "/assets/docs/Task%204%20deliverable%20CORAL_v1.1.pdf"
