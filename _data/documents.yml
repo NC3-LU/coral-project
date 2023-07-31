@@ -18,7 +18,13 @@
   description: "This document contains feedback questions related to the first version of the Fit4CSA tool. The purpose is to gain feedback during the feasibility study phase about the way the formulations of the questions, answers and recommendations, as well as to gather reactions to the proposed Fit4CSA flow."
   date: 17/03/2023
   link: "/assets/docs/CORAL-Feedback%20form-v1.1.docx"
-  
+
+
+- title: Feasibility study results v1.0
+  description: "This document contains feedback received during our initial feasibility study, related to the usage of the Fit4CSA tool and the overall CORAL approach. The purpose of the study was to gather first impressions of a small base of users and adapt the tool accordingly, whenever deemed appropriate."
+  date: 31/07/2023
+  link: "/assets/docs/CORAL-FeasibilityStudyReport-v1.0.pdf"
+
   
 - title: CORAL Methodology and Conformity Assessment Guidance v1.1
   description: "This CORAL project deliverable describes the CORAL overall methodology related to conformity assessment, how the Fit4CSA tool integrates in this methodology, and its scoring scale. An auditor profile is also proposed with respect to the methodology proposed. "
