@@ -3,7 +3,7 @@ layout: post
 title:  "The Phase 1 Feasibility study results are out"
 date:   2023-07-31 17:14:03 +0200
 publish-date: 2023-07-31 18:14:41 +0200
-categories: community
+categories: deliverable
 tags: coralproject
 author: pundorra
 toc: true
