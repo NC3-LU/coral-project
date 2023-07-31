@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  “The Phase 1 Feasibility study results are out“
-date:   2023-07-31 12:14:03 +0200
-publish-date: 2023-07-31 12:14:41 +0200
+title:  "The Phase 1 Feasibility study results are out"
+date:   2023-07-31 17:14:03 +0200
+publish-date: 2023-07-31 18:14:41 +0200
 categories: community
 tags: coralproject
 author: pundorra
 toc: true
 ---
 
-The feasibility study, in its initial phase, has been completed and the results have just been published.
+The feasibility study, in its initial phase, has been completed and the report with the results have just been published. We have reached out to an audience of over 40 individuals, in Luxembourg and abroad, between mid-march and end of April.
 
 # Feasibility study methodology 
 
