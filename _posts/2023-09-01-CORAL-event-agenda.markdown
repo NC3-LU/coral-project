@@ -9,6 +9,8 @@ author: ggh
 toc: false
 ---
 
+![center-aligned-image]("/assets/images/cover-coral-video.jpg"){: .align-center}
+
 The CORAL project consortium is pleased to invite you to its CORAL end-of-project event. Key facts:
 * **Time**: Oct. 18, 2023 from 13:40 to 16h40
 * **Place**: 	Luxembourg House of Cybersecurity, 122 Rue Adolphe Fischer, L-1521 Luxembourg [pin](https://goo.gl/maps/wR6N8PhQnAyfbza5A)
