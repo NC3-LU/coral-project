@@ -21,7 +21,7 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
    
 
 |Time| | Description|
-| :--- | | :---|
+| :--- | :-| :---|
 | 13h40 - 14h00 | | **Welcome of the Participants** |
 | 14h00 - 14h05 | | **Welcome words and mission of the LHC** |
 |               | | _Mr. Francois THILL - Ministry of Economy_ |
