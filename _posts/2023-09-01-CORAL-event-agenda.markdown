@@ -21,7 +21,7 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 
 # CORAL - Supporting SMEs in the context of the European Cybersecurity Certification Regulation 
    
- - - -  
+ - - - 
 |Time |   | Description|
 | :--- | :- | :---|
 | 13h40 - 14h00  |  | **Welcome of the Participants** |
@@ -45,7 +45,7 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 | 16h05 - 16h15  |  | **Closing remarks** |
 |                |  |  _Mr. Pascal STEICHEN - LHC_ | 
 | 16h10 - 16h40  |  | **Networking Coffee** |
-- - -
+ - - -
 
 
 # For whom the event is intended
