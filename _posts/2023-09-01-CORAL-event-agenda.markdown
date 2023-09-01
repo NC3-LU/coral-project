@@ -21,17 +21,29 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 
 
 |Time|Description|
-| :---| :---|
+|----+----|
+| :---| ---:|
 | 13h40 - 14h00 | **Welcome of the Participants** |
 | 14h00 - 14h05 | **Welcome words and mission of the LHC** |
-|               |  _Mr. Francois THILL - Ministry of Economy_ |
+|               | _Mr. Francois THILL - Ministry of Economy_ |
 | 14h05 - 14h15 | **Presentation of ILNAS** |
-|               |   _ILNAS Direction_ |
+|               | _ILNAS Direction_ |
 | 14h15 - 14h35 | **Keynote speech** |
-|               |  _Mrs. Renate VERHEIJEN - ENISA_ |
-| 16h05 -  16h15 | **Closing remarks** |
-|                |  _Mr. Pascal STEICHEN - LHC_ | 
-| 16h10 -  16h40 | **Networking Coffee** |
+|               | _Mrs. Renate VERHEIJEN - ENISA_ |
+| 14h35 - 14h50 | **Cybersecurity Certification and the CSA, and ILNAS’s role** |
+|               | _Dr. Jean LANCRENON - ILNAS_ | 
+| 14h50 - 15h05	| **Cybersecurity Standardisation** |
+|               | _Mrs. Natalia VINOGRADOVA - ANEC GIE_ | 
+| 15h05 - 15h35	| **CORAL project results** |
+|               | Purpose of the project - _Dr. Gabriela GHEORGHE - LHC_ |
+|               | Standards landscape - _Mrs. Natalia VINOGRADOVA - ANEC GIE_ |
+|               | Methodology and tool - _Dr. Gabriela GHEORGHE - LHC_ |
+|               | Feedback and lessons learnt - _Dr. Gabriela GHEORGHE - LHC_ |
+| 15h35 - 16h05	| **Panel discussion**|
+|               | The value of cybersecurity certification in Luxembourg, and how to encourage it |
+| 16h05 - 16h15 | **Closing remarks** |
+|               |  _Mr. Pascal STEICHEN - LHC_ | 
+| 16h10 - 16h40 | **Networking Coffee** |
 
 
 # For whom the event is intended
