@@ -5,7 +5,7 @@ date:   2023-06-09 12:10:24 +0200
 publish-date: 2023-06-09 12:11:54 +0200
 categories: dissemination
 tags: coralproject
-author: pundorra
+author: ggh
 toc: false
 ---
 

@@ -5,7 +5,7 @@ date:   2023-09-01 11:13:03 +0200
 publish-date: 2023-09-01 11:24:41 +0200
 categories: event
 tags: coralproject
-author: pundorra
+author: ggh
 toc: false
 ---
 
