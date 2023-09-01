@@ -16,7 +16,6 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 * **Agenda**: See below
 
 
-<br>
 
 # CORAL - Supporting SMEs in the context of the European Cybersecurity Certification Regulation 
 
@@ -30,17 +29,16 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 | 16h05 -  16h15	|  **Closing remarks** <br> _Mr. Pascal STEICHEN - LHC_ | 
 | 16h10 -  16h40	|  **Networking Coffee** |
 
-<br>
 
 # For whom the event is intended
 The ultimate goal of the event is to encourage an open dialog around the evaluation and certification of cybersecurity maturity for any ICT solution, and how that comes to life in Luxembourg and in the EU.
 
 While the project results are intended mainly to SMEs willing to have their solutions assessed or certified in terms of cybersecurity, the event aims to reach to a wider audience, including: 
-<ul>
-<li>SMEs that are unsure of the advantages of standards and certification in cybersecurity, </li>
-<li>auditors that could perform certifications in the context of the Cybersecurity Act (CSA), </li>
-<li>specific authorities that can play a role in the accreditation and certification proceeses in the scope of the CSA, </li>
-<li>the wider public, concerned about cybersecurity, who consumes or uses ICT solutions.</li>
-<ul>
+
+* SMEs that are unsure of the advantages of standards and certification in cybersecurity,
+* auditors that could perform certifications in the context of the Cybersecurity Act (CSA),
+* specific authorities that can play a role in the accreditation and certification proceeses in the scope of the CSA, 
+* the wider public, concerned about cybersecurity, who consumes or uses ICT solutions.
+
 
 
