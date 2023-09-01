@@ -8,6 +8,19 @@
 	display:inline;
 }
 
+table {
+	border-collapse: collapse;
+	width: 100%;
+	border: 1px solid #ccc;
+  }
+  
+  th, td {
+	border: 1px solid #ccc;
+	padding: 8px;
+	text-align: left;
+  }
+  
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
