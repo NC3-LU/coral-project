@@ -9,7 +9,7 @@ author: ggh
 toc: false
 ---
 
-![center-aligned-image]("/assets/images/cover-coral-video.jpg"){: .align-center}
+![center-aligned-image](/assets/images/cover-coral-video.jpg){: .align-center}
 
 The CORAL project consortium is pleased to invite you to its CORAL end-of-project event. Key facts:
 * **Time**: Oct. 18, 2023 from 13:40 to 16h40
