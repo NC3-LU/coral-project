@@ -8,21 +8,9 @@
 	display:inline;
 }
 
-table {
-	border-collapse: collapse;
-	width: 100%;
-	border: 1px solid #0000;
-  }
-  
-  th, td {
-	border: 1px solid #0000;
-	padding: 8px;
-	text-align: left;
-  }
-  
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
-    "starsnonscss"
+    "starsnonscss",
+	"base"
 ;
