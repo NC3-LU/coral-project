@@ -12,7 +12,7 @@ authors:
   ggh:
     name: Gabriela Gheorghe
     display_name: Gabriela G.
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/female-avatar.png'
     email: info@coral-project.org
     web: https://lhc.lu
     description: "Project Manager"
@@ -22,7 +22,7 @@ authors:
     avatar: 'assets/images/avatar.png'
     email: info@coral-project.org
     web: https://www.nc3.lu
-    description: "Former poject Assistant"
+    description: "Former Project Assistant"
   dko:
     name: Dominique Kogue
     display_name: Dominique K.
