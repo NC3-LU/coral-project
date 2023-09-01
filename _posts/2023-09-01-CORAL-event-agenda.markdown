@@ -19,20 +19,6 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 
 # CORAL - Supporting SMEs in the context of the European Cybersecurity Certification Regulation 
 
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:2px solid #ff0000;
-}
-
-th{
-    border:2px solid #000000;
-}
-
-td{
-    border:1px solid #000000;
-}
-
 
 |Time|Description|
 | :---| :---|
