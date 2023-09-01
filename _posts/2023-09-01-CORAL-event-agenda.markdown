@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “CORAL Event Agenda“
+title:  CORAL Event Agenda
 date:   2023-09-01 11:13:03 +0200
 publish-date: 2023-09-01 11:24:41 +0200
 categories: event
@@ -9,13 +9,12 @@ author: pundorra
 toc: false
 ---
 
-The CORAL project consortium is pleased to invite you to its CORAL end-of-project event. Key facts:<br>
-<ul>
-<li><strong>Time</strong>: Oct. 18, 2023 from 13:40 to 16h40<br>
-<li><strong>Place</strong>: 	Luxembourg House of Cybersecurity, 122 Rue Adolphe Fischer, L-1521 Luxembourg <a href="https://goo.gl/maps/wR6N8PhQnAyfbza5A">[pin]</a><br>
-<li><strong>Event language</strong>: English
-<li><strong> Agenda:</strong> See below
-</ul>
+The CORAL project consortium is pleased to invite you to its CORAL end-of-project event. Key facts:
+* **Time**: Oct. 18, 2023 from 13:40 to 16h40
+* **Place**: 	Luxembourg House of Cybersecurity, 122 Rue Adolphe Fischer, L-1521 Luxembourg ([pin])[a href="https://goo.gl/maps/wR6N8PhQnAyfbza5A]
+* **Event language**: English
+* **Agenda**: See below
+
 
 <br>
 
