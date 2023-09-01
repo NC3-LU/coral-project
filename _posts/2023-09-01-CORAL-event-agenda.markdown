@@ -34,7 +34,7 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 | 16h05 - 16h15  | **Closing remarks** <br> _Mr. Pascal STEICHEN - LHC_ | 
 | 16h10 - 16h40  | **Networking Coffee** |
 
-
+\\
 
 # For whom the event is intended
    
