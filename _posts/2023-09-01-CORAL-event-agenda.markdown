@@ -14,7 +14,7 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 * **Place**: 	Luxembourg House of Cybersecurity, 122 Rue Adolphe Fischer, L-1521 Luxembourg [pin](https://goo.gl/maps/wR6N8PhQnAyfbza5A)
 * **Event language**: English
 * **Agenda**: See below
-* **Registration link**: Please register [here] (https://event.cybersecurity-luxembourg.com/coralevent)
+* **Registration link**: Please register [here](https://event.cybersecurity-luxembourg.com/coralevent)
 
 ![center-aligned-image](/assets/images/cover-coral-video2.png){: .align-center}
 
