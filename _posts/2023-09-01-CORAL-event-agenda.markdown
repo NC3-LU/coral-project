@@ -24,7 +24,7 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 | :--- | :---|
 | 13h40 - 14h00 | **Welcome of the Participants** |
 | 14h00 - 14h05 | **Welcome words and mission of the LHC** <br> _Mr. Francois THILL - Ministry of Economy_ |
-| 14h05 - 14h15 | **Presentation of ILNAS** <br> _ILNAS Direction_ |
+| 14h05 - 14h15 | **Presentation of ILNAS** <br> _Dr. Jean-Philippe HUMBERT – ILNAS_ |
 | 14h15 - 14h35  |**Keynote speech** <br> _Mrs. Renate VERHEIJEN - ENISA_ |
 | 14h35 - 14h50  | **Cybersecurity Certification and the CSA, and ILNAS’s role** <br> _Dr. Jean LANCRENON - ILNAS_ | 
 | 14h50 - 15h05	 | **Cybersecurity Standardisation** <br> _Mrs. Natalia VINOGRADOVA - ANEC GIE_ | 
