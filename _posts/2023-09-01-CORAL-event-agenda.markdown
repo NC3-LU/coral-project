@@ -29,7 +29,7 @@ The CORAL project consortium is pleased to invite you to its CORAL end-of-projec
 | 14h35 - 14h50  | **Cybersecurity Certification and the CSA, and ILNAS’s role** <br> _Dr. Jean LANCRENON - ILNAS_ | 
 | 14h50 - 15h05	 | **Cybersecurity Standardisation** <br> _Mrs. Natalia VINOGRADOVA - ANEC GIE_ | 
 | 15h05 - 15h35	 |**CORAL project results** <br> Purpose of the project - _Dr. Gabriela GHEORGHE - LHC_ <br>Standards landscape - _Mrs. Natalia VINOGRADOVA - ANEC GIE_ <br> Methodology and tool - _Dr. Gabriela GHEORGHE - LHC_ <br> Feedback and lessons learnt - _Dr. Gabriela GHEORGHE - LHC_ |
-| 15h35 - 16h05	 | **Panel discussion** <br> The value of cybersecurity certification in Luxembourg, and how to encourage it <br> _Mr. Benoit POLETTI - INCERT_ <br> _Mr. Sandro Di IACOVO - LuxDev_ <br> TBC_PwC Luxembourg_ <br> _Mrs. Renate VERHEIJEN - ENISA_ <bt>_Dr. Jean LANCRENON - ILNAS_ <br> Moderation: _Dr. Gabriela GHEORGHE - LHC_ |
+| 15h35 - 16h05	 | **Panel discussion** <br> The value of cybersecurity certification in Luxembourg, and how to encourage it <br> _Mr. Benoit POLETTI - INCERT_ <br> _Mr. Sandro Di IACOVO - LuxDev_ <br> TBC_PwC Luxembourg_ <br> _Mrs. Renate VERHEIJEN - ENISA_ <br>_Dr. Jean LANCRENON - ILNAS_ <br> Moderation: _Dr. Gabriela GHEORGHE - LHC_ |
 | 16h05 - 16h15  | **Closing remarks** <br> _Mr. Pascal STEICHEN - LHC_ | 
 | 16h10 - 16h40  | **Networking Coffee** |
 
