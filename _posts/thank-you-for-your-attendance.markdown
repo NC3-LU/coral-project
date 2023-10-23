@@ -1,4 +1,4 @@
-Purpose ---
+---
 layout: post
 title:  Thank you for taking part to our CORAL Event
 date:   2023–10-23 11:13:03 +0200
@@ -10,6 +10,7 @@ toc: false
 ---
 
 On behalf of the CORAL project consortium, thank you for attending our CORAL event on the 18th of October!
+
 Here are the slides from our speakers:
 * **Presentation on ILNAS’s objectives**: [here](/assets/docs/1%20-%20CORAL-2023-presentation_JPH.pdf)
 * **Presentation from ENISA**: [here](/assets/docs2%20-%20CORAL%20-EU%20CCF-ENISA-RenateVerheijen.pdf)
