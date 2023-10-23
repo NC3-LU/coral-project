@@ -20,7 +20,7 @@ Here are the slides from our speakers:
 
 
 ![center-aligned-image](/assets/images/speakers_coral.jpg){: .align-center}
-
+*Key speakers (upper left to bottom right): Francois Thill (Ministry of Economy), Jean-Philippe Humbert (ILNAS), Renate Verheijen (ENISA), Jean Lancrenon (ILNAS), Natalia Vinogradova (ANEC), Gabriela Gheorghe (LHC) *
 
 # Key messages 
    
@@ -40,3 +40,4 @@ The project results are intended mainly to SMEs willing to have their solutions 
 * the wider public, concerned about cybersecurity, who consumes or uses ICT solutions.
 
 ![center-aligned-image](/assets/images/IMG_8936.JPG){: .align-center}
+*Some of the CORAL panelists: Sandro Di Iacovo (LuxDev), Benoit Poletti (INCERT), Renate Veiheijen (ENISA), Jean Lancrenon (ILNAS); Moderation: Gabriela Gheorghe (LHC)*
