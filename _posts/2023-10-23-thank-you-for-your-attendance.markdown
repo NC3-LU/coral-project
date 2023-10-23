@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Thank you for taking part to our CORAL Event
-date:   2023–10-23 11:13:03 +0200
-publish-date: 2023-10-23 13:04:41 +0200
+date:   2023-10-23 11:13:03 +0200
+publish-date: 2023-10-23 11:13:03 +0200
 categories: event
 tags: coralevent
 author: ggh
