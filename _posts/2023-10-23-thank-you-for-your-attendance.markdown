@@ -20,7 +20,7 @@ Here are the slides from our speakers:
 
 
 ![center-aligned-image](/assets/images/speakers_coral.jpg){: .align-center}
-*Key speakers (upper left to bottom right): Francois Thill (Ministry of Economy), Jean-Philippe Humbert (ILNAS), Renate Verheijen (ENISA), Jean Lancrenon (ILNAS), Natalia Vinogradova (ANEC), Gabriela Gheorghe (LHC) *
+*Key speakers (upper left to bottom right): Francois Thill (Ministry of Economy), Jean-Philippe Humbert (ILNAS), Renate Verheijen (ENISA), Jean Lancrenon (ILNAS), Natalia Vinogradova (ANEC), Gabriela Gheorghe (LHC)*
 
 # Key messages 
    
