@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Thank you for taking part to our CORAL Event
+title:  Thank you for taking part in our CORAL Event
 date:   2023-10-23 11:13:03 +0200
 publish-date: 2023-10-23 11:13:03 +0200
 categories: event
