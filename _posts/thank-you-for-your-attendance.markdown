@@ -19,7 +19,7 @@ Here are the slides from our speakers:
 * **Presentation of CORAL project mission and results** [here](/assets/docs/5%20-%20CORAL%20project%20results%20-%20GGH%20and%20NVI.pdf)
 
 
-![center-aligned-image](/assets/images/speakers-coral.jpg){: .align-center}
+![center-aligned-image](/assets/images/speakers_coral.jpg){: .align-center}
 
 
 # Key messages 
