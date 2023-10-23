@@ -39,4 +39,4 @@ The project results are intended mainly to SMEs willing to have their solutions 
 * specific authorities that can play a role in the accreditation and certification proceeses in the scope of the CSA, 
 * the wider public, concerned about cybersecurity, who consumes or uses ICT solutions.
 
-![center-aligned-image](/assets/images/IMG_8936.jpg){: .align-center}
+![center-aligned-image](/assets/images/IMG_8936.JPG){: .align-center}
