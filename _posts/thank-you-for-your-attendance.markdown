@@ -15,8 +15,8 @@ Here are the slides from our speakers:
 * **Presentation on ILNAS’s objectives**: [here](/assets/docs/1%20-%20CORAL-2023-presentation_JPH.pdf)
 * **Presentation from ENISA**: [here](/assets/docs2%20-%20CORAL%20-EU%20CCF-ENISA-RenateVerheijen.pdf)
 * **Presentation of CSA and CSA in Luxembourg**: [here](/assets/docs/3%20-%20CORAL%20event%2018102023_CSA%20et%20ILNAS_JLA.pdf)
-* **Presentation of the cybersecurity standards landscape** [here](/assets/docs/4%20-%20CORAL%20event%20-%20Cybersecurity%20Standards%20-%20NVI.pdf)
-* **Presentation of CORAL project mission and results** [here](/assets/docs/5%20-%20CORAL%20project%20results%20-%20GGH%20and%20NVI.pdf)
+* **Presentation of the cybersecurity standards landscape**: [here](/assets/docs/4%20-%20CORAL%20event%20-%20Cybersecurity%20Standards%20-%20NVI.pdf)
+* **Presentation of CORAL project mission and results**: [here](/assets/docs/5%20-%20CORAL%20project%20results%20-%20GGH%20and%20NVI.pdf)
 
 
 ![center-aligned-image](/assets/images/speakers_coral.jpg){: .align-center}
