@@ -23,6 +23,5 @@ If you are curious about this question too, then take a look at the second repor
 
 While the first document is meant for the general public, the second document can be useful for CSIRTs to be better prepared for incoming regulatory changes and to better undestand how CSA might impact them. 
 
-<br>
 
 # Enjoy your reading!
