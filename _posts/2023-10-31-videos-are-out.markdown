@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  CORAL Videos
-date:   2023–10-31 09:49:21 +0200
-publish-date: 2023-10-31 09:56:11 +0200
+date: 2023-10-31 10:21:03 +0200
+publish-date: 2023-10-31 10:21:03 +0200
 categories: videos
 tags: coralproject
 author: ggh
