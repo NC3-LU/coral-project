@@ -25,13 +25,13 @@ We have 2 CORAL-related videos that we invite you to watch:
 <br>
 * Our [video](https://www.youtube.com/watch?v=0Kae3wdNgoY) on **standards related to cybersecurity** in support of the CSA (also check out the description of the video to see the bookmarks). This was published on the 31st of October.
 <br>
-<br>
 <img align="left" src="/assets/images/Screenshot-video2.png" alt="CORAL Video 2" width=400 height=200 title="CORAL Video on standards related to cybersecurity"> 
 <br>
 <br>
 <br>
+<br>
 We hope these materials would be useful and informative!
-
+<br>
 <br>
 <br>
 <br>
