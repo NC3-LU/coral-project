@@ -28,13 +28,16 @@ We have 2 CORAL-related videos that we invite you to watch:
 <img align="left" src="/assets/images/cover-coral-video2.png" alt="CORAL video 1" width=400 height=200 title="CORAL project main video">
 <img align="right" src="/assets/images/Screenshot-video2.png" alt="CORAL Video 2" width=400 height=200 title="CORAL Video on standards related to cybersecurity"> 
 
+<br>
+<br>
+
 We hope these materials would be useful and informative!
 
 <br>
 <br>
 <br>
 <br>
-
+<br>
 
 # For whom the videos are intended
    
