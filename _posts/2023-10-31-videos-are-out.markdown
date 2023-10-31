@@ -16,9 +16,11 @@ A picture says a thousand words but a video, a thousand times more!
 As promised in the project planning phase, the CORAL consortium has prepared several video materials giving an overview of what the project and its results are about. 
 
 We have 2 CORAL-related videos that we invite you to watch:
-* Our [video](https://www.youtube.com/watch?v=kmMHJ-lj4FY) on **the approach and results of the CORAL project**, including a demo of the Fit4CSA tool (check out the description of the video to see the chapters). This was originally published on the 27th of September.
 <img align="left" src="/assets/images/cover-coral-video2.png" alt="CORAL video 1" width=400 height=200 title="CORAL project main video">
+<br>
+* Our [video](https://www.youtube.com/watch?v=kmMHJ-lj4FY) on **the approach and results of the CORAL project**, including a demo of the Fit4CSA tool (check out the description of the video to see the chapters). This was originally published on the 27th of September.
 
+<br>
 * Our [video](https://www.youtube.com/watch?v=0Kae3wdNgoY) on **standards related to cybersecurity** in support of the CSA (also check out the description of the video to see the bookmarks). This was published on the 31st of October.
 <img align="left" src="/assets/images/Screenshot-video2.png" alt="CORAL Video 2" width=400 height=200 title="CORAL Video on standards related to cybersecurity"> 
 
