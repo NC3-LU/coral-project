@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  CORAL Event Agenda
+title:  Some more CORAL documents that can be useful
 date:   2023-10-31 17:13:03 +0200
 publish-date: 2023-10-31 17:24:41 +0200
 categories: reports
