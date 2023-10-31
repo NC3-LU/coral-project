@@ -9,6 +9,9 @@ author: ggh
 toc: false
 ---
 
+# Is the CSA related to other pieces of legislation on the EU Agenda?
+# Do you know what's the impact of CSA over Computer Emergency Response Teams?
+
 The CORAL project partners have 2 more reports to share with the public in the context of CSA and cybersecurity certification. The two extra reports are as follows:
 * The first report looks at **the links between the CSA certification framework and related EU legislation**:  [here](/assets/docs/CSA%20and%20its%20impact%20on%20EU%20legislation%20report_v1.0.pdf)
 * The second report analyses **the impact of the CSA certification framework over the activities of CSIRTs in Europe**: [here](/assets/docs/The%20Impact%20of%20CSA%20on%20CSIRTs%20in%20Europe_v1.0.pdf)
