@@ -22,12 +22,18 @@ We have 2 CORAL-related videos that we invite you to watch:
 | 27/09/2023 | Video on **the approach and results of the CORAL project**, including a demo of the Fit4CSA tool (check out the description of the video to see the chapters) | Our [video here](https://www.youtube.com/watch?v=kmMHJ-lj4FY) |
 | 31/10/2023 | Video on **standards related to cybersecurity** in support of the CSA (also do check out the description of the video to see the bookmarks) | Our [video here](https://www.youtube.com/watch?v=0Kae3wdNgoY) |
 
-
+<br>
+<br>
 
 <img align="left" src="/assets/images/cover-coral-video2.png" alt="CORAL video 1" width=400 height=200 title="CORAL project main video">
 <img align="right" src="/assets/images/Screenshot-video2.png" alt="CORAL Video 2" width=400 height=200 title="CORAL Video on standards related to cybersecurity"> 
 
 We hope these materials would be useful and informative!
+
+<br>
+<br>
+<br>
+<br>
 
 
 # For whom the videos are intended
