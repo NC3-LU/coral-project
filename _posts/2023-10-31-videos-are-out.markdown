@@ -17,8 +17,8 @@ As promised in the project planning phase, the CORAL consortium has prepared sev
 
 |Publication date | Description| Link |
 | :--- | :---| --: |
-| 27/09/2023 | Video on **the approach and results of the CORAL project**, including a demo of the Fit4CSA tool (check out the description of the video to see the chapters) | [video here](https://www.youtube.com/watch?v=kmMHJ-lj4FY) |
-| 31/10/2023 | Video on **standards related to cybersecurity** in support of the CSA (also do check out the description of the video to see the bookmarks) | [video here](https://www.youtube.com/watch?v=0Kae3wdNgoY) |
+| 27/09/2023 | Video on **the approach and results of the CORAL project**, including a demo of the Fit4CSA tool <br> (check out the description of the video to see the chapters) | [video here](https://www.youtube.com/watch?v=kmMHJ-lj4FY) |
+| 31/10/2023 | Video on **standards related to cybersecurity** in support of the CSA <br> (also do check out the description of the video to see the bookmarks) | [video here](https://www.youtube.com/watch?v=0Kae3wdNgoY) |
 
 <br>
 We hope these materials would be useful and informative!
