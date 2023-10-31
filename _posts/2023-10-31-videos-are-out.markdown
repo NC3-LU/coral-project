@@ -13,9 +13,7 @@ toc: false
 
 A picture says a thousand words but a video, a thousand times more! 
 
-As promised in the project planning phase, the CORAL consortium has prepared several video materials giving an overview of what the project and its results are about. 
-
-We have 2 CORAL-related videos that we invite you to watch: 
+As promised in the project planning phase, the CORAL consortium has prepared several video materials giving an overview of what the project and its results are about. We have 2 CORAL-related videos that we invite you to watch: 
 
 |Publication date | Description| Link |
 | :--- | :---| --: |
