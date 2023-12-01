@@ -1,6 +1,7 @@
 ---
 layout: documents
 title: Documentation for CORAL
+date: Date of publication
 permalink: /docs/
 ---
 
